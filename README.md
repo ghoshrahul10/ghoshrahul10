@@ -1,4 +1,8 @@
-Hi there 👋 I'm Rahul Kumar
+                                                           Hi👋 I'm Rahul Kumar
+
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ghoshrahul10&style=for-the-badge&color=blue)](https://github.com/ghoshrahul10)
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghoshrahul10&show_icons=true&theme=radical)](https://github.com/ghoshrahul10)
 <!--
 **ghoshrahul10/ghoshrahul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
