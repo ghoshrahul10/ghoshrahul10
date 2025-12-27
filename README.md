@@ -10,26 +10,32 @@
 * 🙇 How to reach me - [ghoshrahul1702@gmail.com](mailto:ghoshrahul1702@gmail.com)
 * 😄 Fun fact - **It's all in your mind.**
 
-### Connect with me:
+---
+
+### 🔗 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/10-rahul-kumar" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="10-rahul-kumar"/>
-    &nbsp;&nbsp;&nbsp; <a href="https://github.com/ghoshrahul10" target="blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="ghoshrahul10"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ghoshrahul10" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
+
+---
 
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java"/>
-</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https_devdocs.io/c/" target="_blank" rel="noreferrer">
+  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="C"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -66,7 +72,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="SQL"/>
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
@@ -77,20 +83,19 @@
     <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="httpshttps://github.com/" target="_blank" rel="noreferrer">
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="GitHub"/>
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshrahul10&layout=compact&theme=radical&cache_seconds=86400)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghoshrahul10&show_icons=true&theme=radical&cache_seconds=86400)
 
-
 <!--
-**ghoshrahul10/ghoshrahul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+**ghoshrahul10/ghoshrahul10** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
