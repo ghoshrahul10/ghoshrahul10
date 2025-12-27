@@ -83,9 +83,16 @@
 </p>
 
 <p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshrahul10&layout=compact&theme=radical" />
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=ghoshrahul10&show_icons=true&theme=radical" />
+  <img
+    width="420"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshrahul10&layout=compact&theme=radical&cache_seconds=86400"
+  />
+  <img
+    width="420"
+    src="https://github-readme-stats.vercel.app/api?username=ghoshrahul10&show_icons=true&theme=radical&cache_seconds=86400"
+  />
 </p>
+
 <!--
 **ghoshrahul10/ghoshrahul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
