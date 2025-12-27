@@ -83,9 +83,10 @@
 </p>
 
 <p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshrahul10&layout=compact&theme=radical&cache_seconds=86400)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghoshrahul10&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshrahul10&layout=compact&theme=radical&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghoshrahul10&show_icons=true&theme=radical&cache_seconds=86400)
 </p>
+
 
 
 <!--
