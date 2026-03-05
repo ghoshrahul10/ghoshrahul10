@@ -27,12 +27,12 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java"/>
-  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer">
