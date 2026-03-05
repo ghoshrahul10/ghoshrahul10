@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=ghoshrahul10&style=for-the-badge&color=blue)](https://github.com/ghoshrahul10)
 
 * 🌱 I'm currently learning - **Python Full Stack**
-* ⚪ Ask me about - **Java, MERN Stack**
+* ⚪ Ask me about - **Java, MERN Stack, MySQL**
 * 🙋‍♀️ All my projects are available at [https://github.com/ghoshrahul10](https://github.com/ghoshrahul10)
 * 🙇 How to reach me - [ghoshrahul1702@gmail.com](mailto:ghoshrahul1702@gmail.com)
 * 😄 Fun fact - **It's all in your mind.**
